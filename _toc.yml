@@ -1,0 +1,29 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+- caption: Security Solutions
+  chapters:
+  - file: generatedfiles/overview
+    sections:
+    - file: generatedfiles/awareness
+    - file: generatedfiles/backup
+    - file: generatedfiles/encryption
+    - file: generatedfiles/malwaredetection
+    - file: generatedfiles/networksecurity
+    - file: generatedfiles/operatingsystems
+    - file: generatedfiles/testtools
+    - file: generatedfiles/threatintelligencetools
+    - file: generatedfiles/vulnerabilitymanagement
+
+- caption: About
+  chapters:  
+  - file: help
+  - file: contribute
+  - file: sponsors
+  - file: about  
+  - file: license
+
+
