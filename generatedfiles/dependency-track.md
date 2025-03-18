@@ -18,8 +18,8 @@ Home page for this solution: https://dependencytrack.org/
 | License | Apache License 2.0 |
 | Programming Language | Java |
 | Created | 2013-07-16 |
-| Last update | 2025-03-17 |
-| Github Stars | 2928 |
+| Last update | 2025-03-18 |
+| Github Stars | 2930 |
 | Project Home Page | https://dependencytrack.org/ |
 | Code Repository | https://github.com/DependencyTrack/dependency-track |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/DependencyTrack/dependency-track) |

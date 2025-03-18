@@ -3,15 +3,9 @@
 
 # Zeek
 
-
-```{image} https://zeek.org/wp-content/uploads/2021/01/zeek-logo-blue-black-rgb-horizontal.png 
-:width: 200px 
-:align: center 
-```
-
 ## Description 
 
-Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
+An Open Source Network Security Monitoring Tool.
 
 Home page for this solution: https://zeek.org/ 
 
@@ -24,8 +18,8 @@ Home page for this solution: https://zeek.org/
 | License | Other |
 | Programming Language | C++ |
 | Created | 2012-07-06 |
-| Last update | 2025-03-17 |
-| Github Stars | 6721 |
+| Last update | 2025-03-18 |
+| Github Stars | 6725 |
 | Project Home Page | https://www.zeek.org |
 | Code Repository | https://github.com/zeek/zeek |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/zeek/zeek) |

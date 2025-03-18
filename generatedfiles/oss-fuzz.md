@@ -18,8 +18,8 @@ Home page for this solution: https://google.github.io/oss-fuzz/
 | License | Apache License 2.0 |
 | Programming Language | Shell |
 | Created | 2016-07-20 |
-| Last update | 2025-03-17 |
-| Github Stars | 10886 |
+| Last update | 2025-03-18 |
+| Github Stars | 10890 |
 | Project Home Page | https://google.github.io/oss-fuzz |
 | Code Repository | https://github.com/google/oss-fuzz |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/google/oss-fuzz) |

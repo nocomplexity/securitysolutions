@@ -3,6 +3,12 @@
 
 # Ghidra
 
+
+```{image} https://github.com/NationalSecurityAgency/ghidra/raw/master/Ghidra/Features/Base/src/main/resources/images/GHIDRA_3.png 
+:width: 200px 
+:align: center 
+```
+
 ## Description 
 
 Ghidra is a software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate. This framework includes a suite of full-featured, high-end software analysis tools that enable users to analyze compiled code on a variety of platforms including Windows, macOS, and Linux. Capabilities include disassembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features.
@@ -18,8 +24,8 @@ Home page for this solution: https://ghidra-sre.org/
 | License | Apache License 2.0 |
 | Programming Language | Java |
 | Created | 2019-03-01 |
-| Last update | 2025-03-17 |
-| Github Stars | 55387 |
+| Last update | 2025-03-18 |
+| Github Stars | 55422 |
 | Project Home Page | https://www.nsa.gov/ghidra |
 | Code Repository | https://github.com/NationalSecurityAgency/ghidra |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/NationalSecurityAgency/ghidra) |

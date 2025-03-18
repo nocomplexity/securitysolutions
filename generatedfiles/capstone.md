@@ -18,8 +18,8 @@ Home page for this solution: https://www.capstone-engine.org/
 | License | Unknown |
 | Programming Language | C |
 | Created | 2013-11-27 |
-| Last update | 2025-03-17 |
-| Github Stars | 7864 |
+| Last update | 2025-03-18 |
+| Github Stars | 7867 |
 | Project Home Page | http://www.capstone-engine.org |
 | Code Repository | https://github.com/capstone-engine/capstone |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/capstone-engine/capstone) |

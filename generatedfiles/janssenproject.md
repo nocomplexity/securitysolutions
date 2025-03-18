@@ -24,7 +24,7 @@ Home page for this solution: https://gluu.org/
 | License | Apache License 2.0 |
 | Programming Language | Java |
 | Created | 2020-11-03 |
-| Last update | 2025-03-17 |
+| Last update | 2025-03-18 |
 | Github Stars | 522 |
 | Project Home Page | https://docs.jans.io |
 | Code Repository | https://github.com/JanssenProject/jans |

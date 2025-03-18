@@ -18,8 +18,8 @@ Home page for this solution: https://oxo.ostorlab.co/
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2021-11-04 |
-| Last update | 2025-03-14 |
-| Github Stars | 547 |
+| Last update | 2025-03-17 |
+| Github Stars | 548 |
 | Project Home Page | https://oxo.ostorlab.co |
 | Code Repository | https://github.com/Ostorlab/oxo |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/Ostorlab/oxo) |

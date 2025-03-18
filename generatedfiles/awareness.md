@@ -9,11 +9,31 @@
 :::{grid-item-card}
 :link: fit4cybersecurity
 :link-type: doc
-{octicon}`megaphone;1em;caption-text` **Fit4Cybersecurity**        
+{octicon}`verified;1em;caption-text` **Fit4Cybersecurity**        
 ^^^
 Use and reuse the Fit4Cybersecurity solution
 +++
 [More »](fit4cybersecurity)
+:::
+
+:::{grid-item-card}
+:link: gophish
+:link-type: doc
+{octicon}`thumbsup;1em;caption-text` **Gophish**        
+^^^
+Use and reuse the Gophish solution
++++
+[More »](gophish)
+:::
+
+:::{grid-item-card}
+:link: infectionmonkey
+:link-type: doc
+{octicon}`briefcase;1em;caption-text` **Infection Monkey**        
+^^^
+Use and reuse the Infection Monkey solution
++++
+[More »](infectionmonkey)
 :::
 
 ::::

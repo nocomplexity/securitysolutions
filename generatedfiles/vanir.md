@@ -18,8 +18,8 @@ Home page for this solution: https://github.com/google/vanir
 | License | BSD 3-Clause "New" or "Revised" License |
 | Programming Language | Python |
 | Created | 2024-08-07 |
-| Last update | 2025-03-02 |
-| Github Stars | 323 |
+| Last update | 2025-03-18 |
+| Github Stars | 324 |
 | Project Home Page |  |
 | Code Repository | https://github.com/google/vanir |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/google/vanir) |

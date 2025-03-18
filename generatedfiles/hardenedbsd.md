@@ -18,7 +18,7 @@ Home page for this solution: https://hardenedbsd.org/
 | License | Other |
 | Programming Language | C |
 | Created | 2014-04-08 |
-| Last update | 2025-03-17 |
+| Last update | 2025-03-18 |
 | Github Stars | 384 |
 | Project Home Page | https://hardenedbsd.org |
 | Code Repository | https://github.com/HardenedBSD/hardenedBSD |

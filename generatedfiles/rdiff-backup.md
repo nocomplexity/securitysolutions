@@ -18,8 +18,8 @@ Home page for this solution: https://rdiff-backup.net/
 | License | GNU General Public License v2.0 |
 | Programming Language | Python |
 | Created | 2016-02-12 |
-| Last update | 2025-03-12 |
-| Github Stars | 1138 |
+| Last update | 2025-03-18 |
+| Github Stars | 1140 |
 | Project Home Page | https://rdiff-backup.net/ |
 | Code Repository | https://github.com/rdiff-backup/rdiff-backup |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/rdiff-backup/rdiff-backup) |

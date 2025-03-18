@@ -18,7 +18,7 @@ Home page for this solution: https://github.com/SK-CERT/Taranis-NG/
 | License | European Union Public License 1.2 |
 | Programming Language | Python |
 | Created | 2021-10-09 |
-| Last update | 2025-03-14 |
+| Last update | 2025-03-17 |
 | Github Stars | 107 |
 | Project Home Page |  |
 | Code Repository | https://github.com/SK-CERT/Taranis-NG |

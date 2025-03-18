@@ -1,28 +1,28 @@
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-# Google's differential privacy libraries
+# TLSfuzzer
 
 ## Description 
 
-Google's differential privacy libraries.
+tlsfuzzer is a test suite for SSLv2, SSLv3, TLS 1.0, TLS 1.1, TLS 1.2, and TLS 1.3 implementations.
 
-Home page for this solution: https://github.com/google/differential-privacy 
+Home page for this solution: https://github.com/tlsfuzzer/tlsfuzzer 
 
 ## Overview 
 
 | Key | Value |
 | --- | --- |
-| Name | differential-privacy |
-| Description | Google's differential privacy libraries. |
-| License | Apache License 2.0 |
-| Programming Language | Go |
-| Created | 2019-09-04 |
+| Name | tlsfuzzer |
+| Description | SSL and TLS protocol test suite and fuzzer |
+| License | GNU General Public License v2.0 |
+| Programming Language | Python |
+| Created | 2015-01-08 |
 | Last update | 2025-03-18 |
-| Github Stars | 3127 |
+| Github Stars | 579 |
 | Project Home Page |  |
-| Code Repository | https://github.com/google/differential-privacy |
-| OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/google/differential-privacy) |
+| Code Repository | https://github.com/tlsfuzzer/tlsfuzzer |
+| OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/tlsfuzzer/tlsfuzzer) |
 
 Note:
  - Created date is date that repro is created on Github.com. 

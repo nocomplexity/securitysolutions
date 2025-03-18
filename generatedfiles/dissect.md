@@ -19,7 +19,7 @@ Home page for this solution: https://docs.dissect.tools/en/latest/
 | Programming Language | None |
 | Created | 2022-07-21 |
 | Last update | 2025-03-17 |
-| Github Stars | 963 |
+| Github Stars | 964 |
 | Project Home Page | https://docs.dissect.tools/en/latest/ |
 | Code Repository | https://github.com/fox-it/dissect |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/fox-it/dissect) |

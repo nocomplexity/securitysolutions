@@ -24,8 +24,8 @@ Home page for this solution: https://trufflesecurity.com/
 | License | GNU Affero General Public License v3.0 |
 | Programming Language | Go |
 | Created | 2016-12-31 |
-| Last update | 2025-03-17 |
-| Github Stars | 18476 |
+| Last update | 2025-03-18 |
+| Github Stars | 18502 |
 | Project Home Page | https://trufflesecurity.com |
 | Code Repository | https://github.com/trufflesecurity/trufflehog |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/trufflesecurity/trufflehog) |
