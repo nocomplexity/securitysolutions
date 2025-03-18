@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: capstone
 :link-type: doc
-{octicon}`smiley;1em;caption-text` **Capstone**        
+{octicon}`thumbsup;1em;caption-text` **Capstone**        
 ^^^
 Use and reuse the Capstone solution
 +++
@@ -19,7 +19,7 @@ Use and reuse the Capstone solution
 :::{grid-item-card}
 :link: ghidra
 :link-type: doc
-{octicon}`file;1em;caption-text` **Ghidra**        
+{octicon}`heart;1em;caption-text` **Ghidra**        
 ^^^
 Use and reuse the Ghidra solution
 +++
@@ -29,7 +29,7 @@ Use and reuse the Ghidra solution
 :::{grid-item-card}
 :link: taranisng
 :link-type: doc
-{octicon}`project;1em;caption-text` **Taranis NG**        
+{octicon}`briefcase;1em;caption-text` **Taranis NG**        
 ^^^
 Use and reuse the Taranis NG solution
 +++

@@ -18,8 +18,8 @@ Home page for this solution: https://letsencrypt.org/
 | License | Mozilla Public License 2.0 |
 | Programming Language | Go |
 | Created | 2014-12-21 |
-| Last update | 2025-03-14 |
-| Github Stars | 5342 |
+| Last update | 2025-03-17 |
+| Github Stars | 5346 |
 | Project Home Page |  |
 | Code Repository | https://github.com/letsencrypt/boulder |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/letsencrypt/boulder) |

@@ -24,8 +24,8 @@ Home page for this solution: https://zeek.org/
 | License | Other |
 | Programming Language | C++ |
 | Created | 2012-07-06 |
-| Last update | 2025-03-14 |
-| Github Stars | 6717 |
+| Last update | 2025-03-17 |
+| Github Stars | 6721 |
 | Project Home Page | https://www.zeek.org |
 | Code Repository | https://github.com/zeek/zeek |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/zeek/zeek) |

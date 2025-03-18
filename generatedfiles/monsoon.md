@@ -1,28 +1,28 @@
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-# Mitmproxy
+# monsoon
 
 ## Description 
 
-mitmproxy is a free and open source interactive HTTPS proxy. 
+monsoon is a fast and flexible HTTP fuzzer that can be used for a wide variety of actions ranging from content discovery to credential bruteforcing. 
 
-Home page for this solution: https://mitmproxy.org/ 
+Home page for this solution: https://github.com/RedTeamPentesting/monsoon 
 
 ## Overview 
 
 | Key | Value |
 | --- | --- |
-| Name | mitmproxy |
-| Description | An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. |
+| Name | monsoon |
+| Description | Fast HTTP enumerator |
 | License | MIT License |
-| Programming Language | Python |
-| Created | 2010-02-16 |
-| Last update | 2025-03-17 |
-| Github Stars | 38351 |
-| Project Home Page | https://mitmproxy.org |
-| Code Repository | https://github.com/mitmproxy/mitmproxy |
-| OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/mitmproxy/mitmproxy) |
+| Programming Language | Go |
+| Created | 2017-11-06 |
+| Last update | 2025-03-09 |
+| Github Stars | 478 |
+| Project Home Page |  |
+| Code Repository | https://github.com/RedTeamPentesting/monsoon |
+| OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/RedTeamPentesting/monsoon) |
 
 Note:
  - Created date is date that repro is created on Github.com. 

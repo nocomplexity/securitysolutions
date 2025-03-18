@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: fit4cybersecurity
 :link-type: doc
-{octicon}`book;1em;caption-text` **Fit4Cybersecurity**        
+{octicon}`megaphone;1em;caption-text` **Fit4Cybersecurity**        
 ^^^
 Use and reuse the Fit4Cybersecurity solution
 +++

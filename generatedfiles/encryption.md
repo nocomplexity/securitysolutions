@@ -7,9 +7,19 @@
 :gutter: 3 
 
 :::{grid-item-card}
+:link: google'sdifferentialprivacylibraries
+:link-type: doc
+{octicon}`telescope;1em;caption-text` **Google's differential privacy libraries**        
+^^^
+Use and reuse the Google's differential privacy libraries solution
++++
+[More »](google'sdifferentialprivacylibraries)
+:::
+
+:::{grid-item-card}
 :link: let'sencrypt
 :link-type: doc
-{octicon}`eye;1em;caption-text` **Let's Encrypt**        
+{octicon}`tools;1em;caption-text` **Let's Encrypt**        
 ^^^
 Use and reuse the Let's Encrypt solution
 +++
@@ -19,7 +29,7 @@ Use and reuse the Let's Encrypt solution
 :::{grid-item-card}
 :link: openssl
 :link-type: doc
-{octicon}`checklist;1em;caption-text` **OpenSSL**        
+{octicon}`hubot;1em;caption-text` **OpenSSL**        
 ^^^
 Use and reuse the OpenSSL solution
 +++

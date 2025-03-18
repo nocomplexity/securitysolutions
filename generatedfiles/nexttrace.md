@@ -24,8 +24,8 @@ Home page for this solution: https://www.nxtrace.org/
 | License | GNU General Public License v3.0 |
 | Programming Language | Go |
 | Created | 2022-05-11 |
-| Last update | 2025-03-14 |
-| Github Stars | 6345 |
+| Last update | 2025-03-16 |
+| Github Stars | 6347 |
 | Project Home Page | https://www.nxtrace.org |
 | Code Repository | https://github.com/nxtrace/NTrace-core |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/nxtrace/NTrace-core) |

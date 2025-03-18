@@ -1,19 +1,19 @@
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-# Operating Systems solutions 
+# IdentityAndAccessManagement solutions 
 ::::{grid} 3
 :class-container: text-center
 :gutter: 3 
 
 :::{grid-item-card}
-:link: hardenedbsd
+:link: janssenproject
 :link-type: doc
-{octicon}`zap;1em;caption-text` **HardenedBSD**        
+{octicon}`tools;1em;caption-text` **Janssen Project**        
 ^^^
-Use and reuse the HardenedBSD solution
+Use and reuse the Janssen Project solution
 +++
-[More »](hardenedbsd)
+[More »](janssenproject)
 :::
 
 ::::

@@ -24,8 +24,8 @@ Home page for this solution: https://owasp.org/www-project-nettacker/
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2017-04-21 |
-| Last update | 2025-03-14 |
-| Github Stars | 3876 |
+| Last update | 2025-03-17 |
+| Github Stars | 3882 |
 | Project Home Page | https://owasp.org/www-project-nettacker/ |
 | Code Repository | https://github.com/OWASP/Nettacker |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/OWASP/Nettacker) |

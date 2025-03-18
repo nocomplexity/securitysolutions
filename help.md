@@ -1,5 +1,7 @@
 ## Help
 
+We maintain this catalogue  of FOSS cyber security tools for more than 10 years. 
+
 This publication is created to make it easier to find FOSS security solutions. Using FOSS security solutions has many advantages. E.g. transparency and easier extensibility. 
 
 

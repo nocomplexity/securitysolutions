@@ -1,7 +1,7 @@
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-# SiLK project 
+# SiLK project
 
 
 ```{image} https://tools.netsa.cert.org/site/sei-logo.png 

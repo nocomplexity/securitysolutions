@@ -18,8 +18,8 @@ Home page for this solution: https://securityscorecards.dev/
 | License | Apache License 2.0 |
 | Programming Language | Go |
 | Created | 2020-10-09 |
-| Last update | 2025-03-14 |
-| Github Stars | 4808 |
+| Last update | 2025-03-17 |
+| Github Stars | 4814 |
 | Project Home Page | https://scorecard.dev |
 | Code Repository | https://github.com/ossf/scorecard |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/ossf/scorecard) |

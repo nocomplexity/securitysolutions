@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: borg
 :link-type: doc
-{octicon}`zap;1em;caption-text` **Borg**        
+{octicon}`cross-reference;1em;caption-text` **Borg**        
 ^^^
 Use and reuse the Borg solution
 +++
@@ -19,7 +19,7 @@ Use and reuse the Borg solution
 :::{grid-item-card}
 :link: rdiff-backup
 :link-type: doc
-{octicon}`telescope;1em;caption-text` **rdiff-backup**        
+{octicon}`checklist;1em;caption-text` **rdiff-backup**        
 ^^^
 Use and reuse the rdiff-backup solution
 +++
