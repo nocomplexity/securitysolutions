@@ -6,6 +6,7 @@ root: intro
 parts:
 - caption: Security Solutions
   chapters:
+  - file: quality
   - file: generatedfiles/overview
     sections:
     - file: generatedfiles/awareness
