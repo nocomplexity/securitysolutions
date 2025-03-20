@@ -25,7 +25,7 @@ Using this opinionated guide should give you a head start. But for a basic evalu
 * Check the OpenSSF Scorecard. If no card is available, create a card. Others will benefit also from your action.
 * Check if the software is created using the reproducible build process.
 * Check if the FOSS license is a valid OSI-license.
-* Validate if the solution you want to use is not too complex for the problem you want to solve. Simple software with less dependencies is usually more secure and has less maintenance overhead and associate costs.
+* Validate if the solution you want to use is not too complex for the problem you want to solve. Simple software with less dependencies is usually more secure and has less maintenance overhead and costs.
 
 A more detailed list for evaluationg FOSS security software is available [here within the Open Security Reference Architecture](https://nocomplexity.com/documents/securityarchitecture/prevention/evalFOSS.html)
 
