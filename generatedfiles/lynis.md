@@ -18,8 +18,8 @@ Home page for this solution: https://cisofy.com/lynis/
 | License | GNU General Public License v3.0 |
 | Programming Language | Shell |
 | Created | 2013-12-10 |
-| Last update | 2025-03-18 |
-| Github Stars | 13944 |
+| Last update | 2025-03-20 |
+| Github Stars | 13951 |
 | Project Home Page | https://cisofy.com/lynis/ |
 | Code Repository | https://github.com/CISOfy/lynis |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/CISOfy/lynis) |

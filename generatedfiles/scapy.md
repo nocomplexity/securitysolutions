@@ -24,8 +24,8 @@ Home page for this solution: https://scapy.net/
 | License | GNU General Public License v2.0 |
 | Programming Language | Python |
 | Created | 2015-10-01 |
-| Last update | 2025-03-18 |
-| Github Stars | 11169 |
+| Last update | 2025-03-20 |
+| Github Stars | 11180 |
 | Project Home Page | https://scapy.net |
 | Code Repository | https://github.com/secdev/scapy |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/secdev/scapy) |

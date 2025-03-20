@@ -18,8 +18,8 @@ Home page for this solution: https://shells.systems/introducing-apt-hunter-threa
 | License | GNU General Public License v3.0 |
 | Programming Language | Python |
 | Created | 2020-12-26 |
-| Last update | 2025-03-12 |
-| Github Stars | 1305 |
+| Last update | 2025-03-19 |
+| Github Stars | 1304 |
 | Project Home Page | https://shells.systems/introducing-apt-hunter-threat-hunting-tool-via-windows-event-log/ |
 | Code Repository | https://github.com/ahmedkhlief/APT-Hunter |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/ahmedkhlief/APT-Hunter) |

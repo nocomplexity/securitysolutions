@@ -18,8 +18,8 @@ Home page for this solution: https://github.com/google/differential-privacy
 | License | Apache License 2.0 |
 | Programming Language | Go |
 | Created | 2019-09-04 |
-| Last update | 2025-03-18 |
-| Github Stars | 3127 |
+| Last update | 2025-03-20 |
+| Github Stars | 3128 |
 | Project Home Page |  |
 | Code Repository | https://github.com/google/differential-privacy |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/google/differential-privacy) |

@@ -18,8 +18,8 @@ Home page for this solution: https://gchq.github.io/CyberChef/
 | License | Apache License 2.0 |
 | Programming Language | JavaScript |
 | Created | 2016-11-28 |
-| Last update | 2025-03-18 |
-| Github Stars | 30616 |
+| Last update | 2025-03-20 |
+| Github Stars | 30645 |
 | Project Home Page | https://gchq.github.io/CyberChef |
 | Code Repository | https://github.com/gchq/CyberChef |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/gchq/CyberChef) |

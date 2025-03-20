@@ -18,8 +18,8 @@ Home page for this solution: https://docs.dissect.tools/en/latest/
 | License | GNU Affero General Public License v3.0 |
 | Programming Language | None |
 | Created | 2022-07-21 |
-| Last update | 2025-03-17 |
-| Github Stars | 964 |
+| Last update | 2025-03-20 |
+| Github Stars | 965 |
 | Project Home Page | https://docs.dissect.tools/en/latest/ |
 | Code Repository | https://github.com/fox-it/dissect |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/fox-it/dissect) |

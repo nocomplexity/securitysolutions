@@ -24,8 +24,8 @@ Home page for this solution: https://github.com/danielmiessler/SecLists
 | License | MIT License |
 | Programming Language | PHP |
 | Created | 2012-02-19 |
-| Last update | 2025-03-18 |
-| Github Stars | 61463 |
+| Last update | 2025-03-20 |
+| Github Stars | 61528 |
 | Project Home Page | https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project |
 | Code Repository | https://github.com/danielmiessler/SecLists |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/danielmiessler/SecLists) |

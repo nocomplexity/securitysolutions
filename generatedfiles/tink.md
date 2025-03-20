@@ -18,8 +18,8 @@ Home page for this solution: https://developers.google.com/tink
 | License | Apache License 2.0 |
 | Programming Language | Java |
 | Created | 2014-06-06 |
-| Last update | 2025-03-11 |
-| Github Stars | 13521 |
+| Last update | 2025-03-20 |
+| Github Stars | 13523 |
 | Project Home Page | https://developers.google.com/tink |
 | Code Repository | https://github.com/tink-crypto/tink |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/tink-crypto/tink) |

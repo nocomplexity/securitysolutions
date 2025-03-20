@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: fit4cybersecurity
 :link-type: doc
-{octicon}`verified;1em;caption-text` **Fit4Cybersecurity**        
+{octicon}`thumbsup;1em;caption-text` **Fit4Cybersecurity**        
 ^^^
 Use and reuse the Fit4Cybersecurity solution
 +++
@@ -19,7 +19,7 @@ Use and reuse the Fit4Cybersecurity solution
 :::{grid-item-card}
 :link: gophish
 :link-type: doc
-{octicon}`thumbsup;1em;caption-text` **Gophish**        
+{octicon}`checklist;1em;caption-text` **Gophish**        
 ^^^
 Use and reuse the Gophish solution
 +++
@@ -29,11 +29,21 @@ Use and reuse the Gophish solution
 :::{grid-item-card}
 :link: infectionmonkey
 :link-type: doc
-{octicon}`briefcase;1em;caption-text` **Infection Monkey**        
+{octicon}`verified;1em;caption-text` **Infection Monkey**        
 ^^^
 Use and reuse the Infection Monkey solution
 +++
 [More »](infectionmonkey)
+:::
+
+:::{grid-item-card}
+:link: internetstandardscompliancetest
+:link-type: doc
+{octicon}`note;1em;caption-text` **Internet standards compliance test**        
+^^^
+Use and reuse the Internet standards compliance test solution
++++
+[More »](internetstandardscompliancetest)
 :::
 
 ::::

@@ -18,8 +18,8 @@ Home page for this solution: https://hardenedbsd.org/
 | License | Other |
 | Programming Language | C |
 | Created | 2014-04-08 |
-| Last update | 2025-03-18 |
-| Github Stars | 384 |
+| Last update | 2025-03-20 |
+| Github Stars | 385 |
 | Project Home Page | https://hardenedbsd.org |
 | Code Repository | https://github.com/HardenedBSD/hardenedBSD |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/HardenedBSD/hardenedBSD) |

@@ -24,8 +24,8 @@ Home page for this solution: https://getgophish.com/
 | License | Other |
 | Programming Language | Go |
 | Created | 2013-11-18 |
-| Last update | 2025-03-18 |
-| Github Stars | 12326 |
+| Last update | 2025-03-20 |
+| Github Stars | 12338 |
 | Project Home Page | https://getgophish.com |
 | Code Repository | https://github.com/gophish/gophish |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/gophish/gophish) |

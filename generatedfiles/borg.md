@@ -18,8 +18,8 @@ Home page for this solution: https://www.borgbackup.org/
 | License | Other |
 | Programming Language | Python |
 | Created | 2015-05-12 |
-| Last update | 2025-03-18 |
-| Github Stars | 11621 |
+| Last update | 2025-03-20 |
+| Github Stars | 11628 |
 | Project Home Page | https://www.borgbackup.org/ |
 | Code Repository | https://github.com/borgbackup/borg |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/borgbackup/borg) |

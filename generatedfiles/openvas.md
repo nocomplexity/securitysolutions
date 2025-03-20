@@ -18,8 +18,8 @@ Home page for this solution: https://www.openvas.org/
 | License | GNU General Public License v2.0 |
 | Programming Language | Rust |
 | Created | 2018-01-22 |
-| Last update | 2025-03-18 |
-| Github Stars | 3664 |
+| Last update | 2025-03-20 |
+| Github Stars | 3666 |
 | Project Home Page | https://greenbone.github.io/docs/ |
 | Code Repository | https://github.com/greenbone/openvas-scanner |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/greenbone/openvas-scanner) |

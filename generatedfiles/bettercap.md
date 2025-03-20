@@ -18,8 +18,8 @@ Home page for this solution: https://www.bettercap.org/
 | License | Other |
 | Programming Language | Go |
 | Created | 2018-01-07 |
-| Last update | 2025-03-18 |
-| Github Stars | 17374 |
+| Last update | 2025-03-20 |
+| Github Stars | 17385 |
 | Project Home Page | https://www.bettercap.org/ |
 | Code Repository | https://github.com/bettercap/bettercap |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/bettercap/bettercap) |

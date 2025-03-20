@@ -24,7 +24,7 @@ Home page for this solution: https://cve-bin-tool.readthedocs.io/en/latest/
 | License | GNU General Public License v3.0 |
 | Programming Language | Python |
 | Created | 2019-01-11 |
-| Last update | 2025-03-18 |
+| Last update | 2025-03-20 |
 | Github Stars | 1356 |
 | Project Home Page | https://cve-bin-tool.readthedocs.io/en/latest/ |
 | Code Repository | https://github.com/intel/cve-bin-tool |

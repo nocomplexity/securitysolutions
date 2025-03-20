@@ -18,8 +18,8 @@ Home page for this solution: https://mitmproxy.org/
 | License | MIT License |
 | Programming Language | Python |
 | Created | 2010-02-16 |
-| Last update | 2025-03-18 |
-| Github Stars | 38380 |
+| Last update | 2025-03-20 |
+| Github Stars | 38419 |
 | Project Home Page | https://mitmproxy.org |
 | Code Repository | https://github.com/mitmproxy/mitmproxy |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/mitmproxy/mitmproxy) |

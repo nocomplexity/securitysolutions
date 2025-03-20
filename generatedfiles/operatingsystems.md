@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: hardenedbsd
 :link-type: doc
-{octicon}`cross-reference;1em;caption-text` **HardenedBSD**        
+{octicon}`check-circle;1em;caption-text` **HardenedBSD**        
 ^^^
 Use and reuse the HardenedBSD solution
 +++

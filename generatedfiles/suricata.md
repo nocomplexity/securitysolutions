@@ -18,8 +18,8 @@ Home page for this solution: https://suricata.io/
 | License | GNU General Public License v2.0 |
 | Programming Language | C |
 | Created | 2012-08-14 |
-| Last update | 2025-03-18 |
-| Github Stars | 5060 |
+| Last update | 2025-03-20 |
+| Github Stars | 5072 |
 | Project Home Page | https://suricata.io |
 | Code Repository | https://github.com/OISF/suricata |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/OISF/suricata) |

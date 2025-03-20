@@ -24,8 +24,8 @@ Home page for this solution: https://ghidra-sre.org/
 | License | Apache License 2.0 |
 | Programming Language | Java |
 | Created | 2019-03-01 |
-| Last update | 2025-03-18 |
-| Github Stars | 55422 |
+| Last update | 2025-03-20 |
+| Github Stars | 55468 |
 | Project Home Page | https://www.nsa.gov/ghidra |
 | Code Repository | https://github.com/NationalSecurityAgency/ghidra |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/NationalSecurityAgency/ghidra) |

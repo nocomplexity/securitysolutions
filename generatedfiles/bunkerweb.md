@@ -24,8 +24,8 @@ Home page for this solution: https://www.bunkerweb.io/
 | License | GNU Affero General Public License v3.0 |
 | Programming Language | Python |
 | Created | 2019-08-20 |
-| Last update | 2025-03-18 |
-| Github Stars | 7685 |
+| Last update | 2025-03-20 |
+| Github Stars | 7695 |
 | Project Home Page | https://www.bunkerweb.io |
 | Code Repository | https://github.com/bunkerity/bunkerweb |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/bunkerity/bunkerweb) |

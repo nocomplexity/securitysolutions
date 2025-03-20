@@ -18,8 +18,8 @@ Home page for this solution: https://trippy.cli.rs/
 | License | Apache License 2.0 |
 | Programming Language | Rust |
 | Created | 2022-03-28 |
-| Last update | 2025-03-18 |
-| Github Stars | 4335 |
+| Last update | 2025-03-19 |
+| Github Stars | 4337 |
 | Project Home Page | https://trippy.rs |
 | Code Repository | https://github.com/fujiapple852/trippy |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/fujiapple852/trippy) |

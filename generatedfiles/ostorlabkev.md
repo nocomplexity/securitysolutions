@@ -18,7 +18,7 @@ Home page for this solution: https://github.com/Ostorlab/KEV
 | License | Apache License 2.0 |
 | Programming Language | None |
 | Created | 2022-04-19 |
-| Last update | 2025-03-14 |
+| Last update | 2025-03-20 |
 | Github Stars | 561 |
 | Project Home Page |  |
 | Code Repository | https://github.com/Ostorlab/KEV |

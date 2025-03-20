@@ -18,8 +18,8 @@ Home page for this solution: http://www.clamav.net/
 | License | GNU General Public License v2.0 |
 | Programming Language | C |
 | Created | 2012-07-20 |
-| Last update | 2025-03-18 |
-| Github Stars | 4832 |
+| Last update | 2025-03-20 |
+| Github Stars | 4836 |
 | Project Home Page | https://www.clamav.net/ |
 | Code Repository | https://github.com/Cisco-Talos/clamav |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/Cisco-Talos/clamav) |

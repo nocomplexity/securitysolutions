@@ -18,8 +18,8 @@ Home page for this solution: https://www.openssl.org/
 | License | Apache License 2.0 |
 | Programming Language | C |
 | Created | 2013-01-15 |
-| Last update | 2025-03-18 |
-| Github Stars | 26956 |
+| Last update | 2025-03-20 |
+| Github Stars | 26986 |
 | Project Home Page | https://www.openssl.org |
 | Code Repository | https://github.com/openssl/openssl |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/openssl/openssl) |

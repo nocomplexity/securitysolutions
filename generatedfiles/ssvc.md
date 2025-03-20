@@ -18,7 +18,7 @@ Home page for this solution: https://github.com/CERTCC/SSVC
 | License | Other |
 | Programming Language | Python |
 | Created | 2020-01-23 |
-| Last update | 2025-03-18 |
+| Last update | 2025-03-20 |
 | Github Stars | 140 |
 | Project Home Page | https://certcc.github.io/SSVC/ |
 | Code Repository | https://github.com/CERTCC/SSVC |
