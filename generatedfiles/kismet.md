@@ -18,8 +18,8 @@ Home page for this solution: https://www.kismetwireless.net/
 | License | Other |
 | Programming Language | C++ |
 | Created | 2016-09-20 |
-| Last update | 2025-03-19 |
-| Github Stars | 1695 |
+| Last update | 2025-04-06 |
+| Github Stars | 1703 |
 | Project Home Page | None |
 | Code Repository | https://github.com/kismetwireless/kismet |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/kismetwireless/kismet) |
@@ -27,7 +27,7 @@ Home page for this solution: https://www.kismetwireless.net/
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

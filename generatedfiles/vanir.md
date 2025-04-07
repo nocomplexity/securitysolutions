@@ -18,8 +18,8 @@ Home page for this solution: https://github.com/google/vanir
 | License | BSD 3-Clause "New" or "Revised" License |
 | Programming Language | Python |
 | Created | 2024-08-07 |
-| Last update | 2025-03-18 |
-| Github Stars | 324 |
+| Last update | 2025-03-27 |
+| Github Stars | 326 |
 | Project Home Page |  |
 | Code Repository | https://github.com/google/vanir |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/google/vanir) |
@@ -27,7 +27,7 @@ Home page for this solution: https://github.com/google/vanir
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

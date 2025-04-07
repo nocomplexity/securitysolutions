@@ -18,8 +18,8 @@ Home page for this solution: https://github.com/CERTCC/SSVC
 | License | Other |
 | Programming Language | Python |
 | Created | 2020-01-23 |
-| Last update | 2025-03-20 |
-| Github Stars | 140 |
+| Last update | 2025-04-03 |
+| Github Stars | 145 |
 | Project Home Page | https://certcc.github.io/SSVC/ |
 | Code Repository | https://github.com/CERTCC/SSVC |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/CERTCC/SSVC) |
@@ -27,7 +27,7 @@ Home page for this solution: https://github.com/CERTCC/SSVC
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

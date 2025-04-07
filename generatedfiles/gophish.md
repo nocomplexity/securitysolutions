@@ -24,8 +24,8 @@ Home page for this solution: https://getgophish.com/
 | License | Other |
 | Programming Language | Go |
 | Created | 2013-11-18 |
-| Last update | 2025-03-20 |
-| Github Stars | 12338 |
+| Last update | 2024-09-23 |
+| Github Stars | 12420 |
 | Project Home Page | https://getgophish.com |
 | Code Repository | https://github.com/gophish/gophish |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/gophish/gophish) |
@@ -33,7 +33,7 @@ Home page for this solution: https://getgophish.com/
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

@@ -24,8 +24,8 @@ Home page for this solution: https://cve-bin-tool.readthedocs.io/en/latest/
 | License | GNU General Public License v3.0 |
 | Programming Language | Python |
 | Created | 2019-01-11 |
-| Last update | 2025-03-20 |
-| Github Stars | 1356 |
+| Last update | 2025-04-07 |
+| Github Stars | 1379 |
 | Project Home Page | https://cve-bin-tool.readthedocs.io/en/latest/ |
 | Code Repository | https://github.com/intel/cve-bin-tool |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/intel/cve-bin-tool) |
@@ -33,7 +33,7 @@ Home page for this solution: https://cve-bin-tool.readthedocs.io/en/latest/
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

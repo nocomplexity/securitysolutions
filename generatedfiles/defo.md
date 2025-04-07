@@ -24,7 +24,7 @@ Home page for this solution: https://defo.ie/
 | License | GNU General Public License v3.0 |
 | Programming Language | Java |
 | Created | 2021-11-30 |
-| Last update | 2025-03-01 |
+| Last update | 2024-12-10 |
 | Github Stars | 19 |
 | Project Home Page | None |
 | Code Repository | https://github.com/defo-project/defo-ech-apps |
@@ -33,7 +33,7 @@ Home page for this solution: https://defo.ie/
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

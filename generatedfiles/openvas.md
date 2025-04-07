@@ -18,8 +18,8 @@ Home page for this solution: https://www.openvas.org/
 | License | GNU General Public License v2.0 |
 | Programming Language | Rust |
 | Created | 2018-01-22 |
-| Last update | 2025-03-20 |
-| Github Stars | 3666 |
+| Last update | 2025-04-07 |
+| Github Stars | 3716 |
 | Project Home Page | https://greenbone.github.io/docs/ |
 | Code Repository | https://github.com/greenbone/openvas-scanner |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/greenbone/openvas-scanner) |
@@ -27,7 +27,7 @@ Home page for this solution: https://www.openvas.org/
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

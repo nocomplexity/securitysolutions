@@ -18,8 +18,8 @@ Home page for this solution: https://developers.google.com/tink
 | License | Apache License 2.0 |
 | Programming Language | Java |
 | Created | 2014-06-06 |
-| Last update | 2025-03-20 |
-| Github Stars | 13523 |
+| Last update | 2024-04-17 |
+| Github Stars | 13528 |
 | Project Home Page | https://developers.google.com/tink |
 | Code Repository | https://github.com/tink-crypto/tink |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/tink-crypto/tink) |
@@ -27,7 +27,7 @@ Home page for this solution: https://developers.google.com/tink
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

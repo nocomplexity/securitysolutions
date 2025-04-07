@@ -18,8 +18,8 @@ Home page for this solution: https://shells.systems/introducing-apt-hunter-threa
 | License | GNU General Public License v3.0 |
 | Programming Language | Python |
 | Created | 2020-12-26 |
-| Last update | 2025-03-19 |
-| Github Stars | 1304 |
+| Last update | 2024-11-07 |
+| Github Stars | 1317 |
 | Project Home Page | https://shells.systems/introducing-apt-hunter-threat-hunting-tool-via-windows-event-log/ |
 | Code Repository | https://github.com/ahmedkhlief/APT-Hunter |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/ahmedkhlief/APT-Hunter) |
@@ -27,7 +27,7 @@ Home page for this solution: https://shells.systems/introducing-apt-hunter-threa
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

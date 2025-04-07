@@ -24,8 +24,8 @@ Home page for this solution: https://scapy.net/
 | License | GNU General Public License v2.0 |
 | Programming Language | Python |
 | Created | 2015-10-01 |
-| Last update | 2025-03-20 |
-| Github Stars | 11180 |
+| Last update | 2025-03-31 |
+| Github Stars | 11280 |
 | Project Home Page | https://scapy.net |
 | Code Repository | https://github.com/secdev/scapy |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/secdev/scapy) |
@@ -33,7 +33,7 @@ Home page for this solution: https://scapy.net/
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

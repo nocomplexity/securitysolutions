@@ -18,8 +18,8 @@ Home page for this solution: https://trippy.cli.rs/
 | License | Apache License 2.0 |
 | Programming Language | Rust |
 | Created | 2022-03-28 |
-| Last update | 2025-03-19 |
-| Github Stars | 4337 |
+| Last update | 2025-04-07 |
+| Github Stars | 4384 |
 | Project Home Page | https://trippy.rs |
 | Code Repository | https://github.com/fujiapple852/trippy |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/fujiapple852/trippy) |
@@ -27,7 +27,7 @@ Home page for this solution: https://trippy.cli.rs/
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

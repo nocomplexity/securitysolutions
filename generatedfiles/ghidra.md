@@ -24,8 +24,8 @@ Home page for this solution: https://ghidra-sre.org/
 | License | Apache License 2.0 |
 | Programming Language | Java |
 | Created | 2019-03-01 |
-| Last update | 2025-03-20 |
-| Github Stars | 55468 |
+| Last update | 2025-04-07 |
+| Github Stars | 56097 |
 | Project Home Page | https://www.nsa.gov/ghidra |
 | Code Repository | https://github.com/NationalSecurityAgency/ghidra |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/NationalSecurityAgency/ghidra) |
@@ -33,7 +33,7 @@ Home page for this solution: https://ghidra-sre.org/
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

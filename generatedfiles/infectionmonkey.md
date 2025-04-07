@@ -24,8 +24,8 @@ Home page for this solution: https://www.akamai.com/infectionmonkey
 | License | GNU General Public License v3.0 |
 | Programming Language | Python |
 | Created | 2015-08-30 |
-| Last update | 2025-03-20 |
-| Github Stars | 6756 |
+| Last update | 2025-02-28 |
+| Github Stars | 6768 |
 | Project Home Page | https://www.guardicore.com/infectionmonkey/ |
 | Code Repository | https://github.com/guardicore/monkey |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/guardicore/monkey) |
@@ -33,7 +33,7 @@ Home page for this solution: https://www.akamai.com/infectionmonkey
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

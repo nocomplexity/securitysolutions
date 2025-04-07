@@ -24,8 +24,8 @@ Home page for this solution: https://trufflesecurity.com/
 | License | GNU Affero General Public License v3.0 |
 | Programming Language | Go |
 | Created | 2016-12-31 |
-| Last update | 2025-03-20 |
-| Github Stars | 18534 |
+| Last update | 2025-04-07 |
+| Github Stars | 18688 |
 | Project Home Page | https://trufflesecurity.com |
 | Code Repository | https://github.com/trufflesecurity/trufflehog |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/trufflesecurity/trufflehog) |
@@ -33,7 +33,7 @@ Home page for this solution: https://trufflesecurity.com/
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

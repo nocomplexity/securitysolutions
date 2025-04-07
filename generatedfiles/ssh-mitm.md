@@ -24,8 +24,8 @@ Home page for this solution: https://docs.ssh-mitm.at/
 | License | GNU General Public License v3.0 |
 | Programming Language | Python |
 | Created | 2020-06-03 |
-| Last update | 2025-03-15 |
-| Github Stars | 1376 |
+| Last update | 2025-03-09 |
+| Github Stars | 1382 |
 | Project Home Page | https://docs.ssh-mitm.at |
 | Code Repository | https://github.com/ssh-mitm/ssh-mitm |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/ssh-mitm/ssh-mitm) |
@@ -33,7 +33,7 @@ Home page for this solution: https://docs.ssh-mitm.at/
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

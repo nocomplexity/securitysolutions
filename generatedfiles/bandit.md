@@ -24,8 +24,8 @@ Home page for this solution: https://bandit.readthedocs.io/en/latest/
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2018-04-26 |
-| Last update | 2025-03-20 |
-| Github Stars | 6835 |
+| Last update | 2025-04-07 |
+| Github Stars | 6882 |
 | Project Home Page | https://bandit.readthedocs.io |
 | Code Repository | https://github.com/PyCQA/bandit |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/PyCQA/bandit) |
@@ -33,7 +33,7 @@ Home page for this solution: https://bandit.readthedocs.io/en/latest/
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

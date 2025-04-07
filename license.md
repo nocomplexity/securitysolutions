@@ -1,5 +1,9 @@
-License
-=======
+# License
+
+I believe that information should be open and accessible to everyone. By sharing information we make use of each others knowledge and we develop new knowledge towards problem solving. New knowledge is built by synthesizing available information and and then building upon it. Open accessible information should not available as easy as possible without borders. This means I do not believe in sites where information is only available after account registration and accepting strange legal terms that limit you in what you can do with the information.
+
+So I choose to use to use a Creative Commons Attribution-ShareAlike License. This license allows you to freely use and share all the information as long as you follow the simple terms that come with this open access license.
+
 
 Copyright (c) 2015-2025 BM-Support.org and Maikel Mardjan.
 

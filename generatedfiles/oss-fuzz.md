@@ -18,8 +18,8 @@ Home page for this solution: https://google.github.io/oss-fuzz/
 | License | Apache License 2.0 |
 | Programming Language | Shell |
 | Created | 2016-07-20 |
-| Last update | 2025-03-20 |
-| Github Stars | 10900 |
+| Last update | 2025-04-04 |
+| Github Stars | 10957 |
 | Project Home Page | https://google.github.io/oss-fuzz |
 | Code Repository | https://github.com/google/oss-fuzz |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/google/oss-fuzz) |
@@ -27,7 +27,7 @@ Home page for this solution: https://google.github.io/oss-fuzz/
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

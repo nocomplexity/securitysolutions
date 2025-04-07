@@ -18,8 +18,8 @@ Home page for this solution: https://github.com/lrq3000/pyFileFixity
 | License | MIT License |
 | Programming Language | Python |
 | Created | 2015-03-01 |
-| Last update | 2025-03-05 |
-| Github Stars | 140 |
+| Last update | 2024-09-04 |
+| Github Stars | 141 |
 | Project Home Page |  |
 | Code Repository | https://github.com/lrq3000/pyFileFixity |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/lrq3000/pyFileFixity) |
@@ -27,7 +27,7 @@ Home page for this solution: https://github.com/lrq3000/pyFileFixity
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.
