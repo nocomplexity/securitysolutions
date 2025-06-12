@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: janssenproject
 :link-type: doc
-{octicon}`check-circle;1em;caption-text` **Janssen Project**        
+{octicon}`pencil;1em;caption-text` **Janssen Project**        
 ^^^
 Use and reuse the Janssen Project solution
 +++
@@ -19,7 +19,7 @@ Use and reuse the Janssen Project solution
 :::{grid-item-card}
 :link: keycloak
 :link-type: doc
-{octicon}`zap;1em;caption-text` **KeyCloak**        
+{octicon}`megaphone;1em;caption-text` **KeyCloak**        
 ^^^
 Use and reuse the KeyCloak solution
 +++

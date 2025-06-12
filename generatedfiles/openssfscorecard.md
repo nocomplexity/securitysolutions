@@ -18,19 +18,19 @@ Home page for this solution: https://securityscorecards.dev/
 | License | Apache License 2.0 |
 | Programming Language | Go |
 | Created | 2020-10-09 |
-| Last update | 2025-04-07 |
-| Github Stars | 4840 |
+| Last update | 2025-06-09 |
+| Github Stars | 4925 |
 | Project Home Page | https://scorecard.dev |
 | Code Repository | https://github.com/ossf/scorecard |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/ossf/scorecard) |
 
 Note:
- - Created date is date that repro is created on Github.com. 
+ - Created date: *date* that repository is created on Github.com. 
 
-- Last update: Last update of repository on Github found on {sub-ref}`today`. 
+- Last update: Latest date an update of repository is detected **on {sub-ref}`today`**. 
 
-- Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
-don't indicate if the SBB is high-quality or very popular.
+- Do not attach much value to github stars. Its a vanity metric! Star counts are misleading and 
+**don't** indicate if the SBB is high-quality or popular.
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 

@@ -19,18 +19,18 @@ Home page for this solution: https://github.com/lrq3000/pyFileFixity
 | Programming Language | Python |
 | Created | 2015-03-01 |
 | Last update | 2024-09-04 |
-| Github Stars | 141 |
+| Github Stars | 144 |
 | Project Home Page |  |
 | Code Repository | https://github.com/lrq3000/pyFileFixity |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/lrq3000/pyFileFixity) |
 
 Note:
- - Created date is date that repro is created on Github.com. 
+ - Created date: *date* that repository is created on Github.com. 
 
-- Last update: Last update of repository on Github found on {sub-ref}`today`. 
+- Last update: Latest date an update of repository is detected **on {sub-ref}`today`**. 
 
-- Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
-don't indicate if the SBB is high-quality or very popular.
+- Do not attach much value to github stars. Its a vanity metric! Star counts are misleading and 
+**don't** indicate if the SBB is high-quality or popular.
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 

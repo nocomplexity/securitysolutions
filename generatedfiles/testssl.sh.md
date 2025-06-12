@@ -1,28 +1,28 @@
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-# TLSfuzzer
+# testssl.sh
 
 ## Description 
 
-tlsfuzzer is a test suite for SSLv2, SSLv3, TLS 1.0, TLS 1.1, TLS 1.2, and TLS 1.3 implementations.
+testssl.sh is a free command line tool which checks a server's service on any port for the support of TLS/SSL ciphers, protocols as well as some cryptographic flaws.
 
-Home page for this solution: https://github.com/tlsfuzzer/tlsfuzzer 
+Home page for this solution: https://github.com/testssl/testssl.sh 
 
 ## Overview 
 
 | Key | Value |
 | --- | --- |
-| Name | tlsfuzzer |
-| Description | SSL and TLS protocol test suite and fuzzer |
+| Name | testssl.sh |
+| Description | Testing TLS/SSL encryption anywhere on any port  |
 | License | GNU General Public License v2.0 |
-| Programming Language | Python |
-| Created | 2015-01-08 |
-| Last update | 2025-06-12 |
-| Github Stars | 591 |
-| Project Home Page |  |
-| Code Repository | https://github.com/tlsfuzzer/tlsfuzzer |
-| OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/tlsfuzzer/tlsfuzzer) |
+| Programming Language | Shell |
+| Created | 2014-07-01 |
+| Last update | 2025-06-11 |
+| Github Stars | 8428 |
+| Project Home Page | https://testssl.sh |
+| Code Repository | https://github.com/testssl/testssl.sh |
+| OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/testssl/testssl.sh) |
 
 Note:
  - Created date: *date* that repository is created on Github.com. 

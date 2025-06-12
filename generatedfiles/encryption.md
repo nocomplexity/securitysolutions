@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: google'sdifferentialprivacylibraries
 :link-type: doc
-{octicon}`zap;1em;caption-text` **Google's differential privacy libraries**        
+{octicon}`check-circle;1em;caption-text` **Google's differential privacy libraries**        
 ^^^
 Use and reuse the Google's differential privacy libraries solution
 +++
@@ -19,7 +19,7 @@ Use and reuse the Google's differential privacy libraries solution
 :::{grid-item-card}
 :link: let'sencrypt
 :link-type: doc
-{octicon}`cross-reference;1em;caption-text` **Let's Encrypt**        
+{octicon}`thumbsup;1em;caption-text` **Let's Encrypt**        
 ^^^
 Use and reuse the Let's Encrypt solution
 +++
@@ -39,7 +39,7 @@ Use and reuse the OpenSSL solution
 :::{grid-item-card}
 :link: tink
 :link-type: doc
-{octicon}`smiley;1em;caption-text` **Tink**        
+{octicon}`verified;1em;caption-text` **Tink**        
 ^^^
 Use and reuse the Tink solution
 +++

@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: bunkerweb
 :link-type: doc
-{octicon}`zap;1em;caption-text` **BunkerWeb**        
+{octicon}`pencil;1em;caption-text` **BunkerWeb**        
 ^^^
 Use and reuse the BunkerWeb solution
 +++
@@ -19,7 +19,7 @@ Use and reuse the BunkerWeb solution
 :::{grid-item-card}
 :link: fail2ban
 :link-type: doc
-{octicon}`thumbsup;1em;caption-text` **Fail2Ban**        
+{octicon}`tools;1em;caption-text` **Fail2Ban**        
 ^^^
 Use and reuse the Fail2Ban solution
 +++
@@ -29,7 +29,7 @@ Use and reuse the Fail2Ban solution
 :::{grid-item-card}
 :link: nmap
 :link-type: doc
-{octicon}`smiley;1em;caption-text` **Nmap**        
+{octicon}`tools;1em;caption-text` **Nmap**        
 ^^^
 Use and reuse the Nmap solution
 +++
@@ -39,7 +39,7 @@ Use and reuse the Nmap solution
 :::{grid-item-card}
 :link: silkproject
 :link-type: doc
-{octicon}`stack;1em;caption-text` **SiLK project**        
+{octicon}`thumbsup;1em;caption-text` **SiLK project**        
 ^^^
 Use and reuse the SiLK project solution
 +++
@@ -49,7 +49,7 @@ Use and reuse the SiLK project solution
 :::{grid-item-card}
 :link: suricata
 :link-type: doc
-{octicon}`verified;1em;caption-text` **Suricata**        
+{octicon}`cross-reference;1em;caption-text` **Suricata**        
 ^^^
 Use and reuse the Suricata solution
 +++
@@ -59,7 +59,7 @@ Use and reuse the Suricata solution
 :::{grid-item-card}
 :link: tsunami
 :link-type: doc
-{octicon}`book;1em;caption-text` **Tsunami**        
+{octicon}`checklist;1em;caption-text` **Tsunami**        
 ^^^
 Use and reuse the Tsunami solution
 +++
@@ -69,7 +69,7 @@ Use and reuse the Tsunami solution
 :::{grid-item-card}
 :link: zeek
 :link-type: doc
-{octicon}`tag;1em;caption-text` **Zeek**        
+{octicon}`megaphone;1em;caption-text` **Zeek**        
 ^^^
 Use and reuse the Zeek solution
 +++
@@ -79,7 +79,7 @@ Use and reuse the Zeek solution
 :::{grid-item-card}
 :link: sshguard
 :link-type: doc
-{octicon}`verified;1em;caption-text` **sshguard**        
+{octicon}`megaphone;1em;caption-text` **sshguard**        
 ^^^
 Use and reuse the sshguard solution
 +++
