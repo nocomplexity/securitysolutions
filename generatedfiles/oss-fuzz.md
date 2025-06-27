@@ -19,7 +19,7 @@ Home page for this solution: https://google.github.io/oss-fuzz/
 | Programming Language | Shell |
 | Created | 2016-07-20 |
 | Last update | 2025-06-27 |
-| Github Stars | 11117 |
+| Github Stars | 11118 |
 | Project Home Page | https://google.github.io/oss-fuzz |
 | Code Repository | https://github.com/google/oss-fuzz |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/google/oss-fuzz) |

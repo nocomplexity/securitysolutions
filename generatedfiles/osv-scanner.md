@@ -25,7 +25,7 @@ Home page for this solution: https://google.github.io/osv-scanner/
 | Programming Language | Go |
 | Created | 2022-11-14 |
 | Last update | 2025-06-27 |
-| Github Stars | 7501 |
+| Github Stars | 7502 |
 | Project Home Page | https://google.github.io/osv-scanner/ |
 | Code Repository | https://github.com/google/osv-scanner |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/google/osv-scanner) |

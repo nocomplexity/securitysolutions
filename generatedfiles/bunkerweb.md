@@ -25,7 +25,7 @@ Home page for this solution: https://www.bunkerweb.io/
 | Programming Language | Python |
 | Created | 2019-08-20 |
 | Last update | 2025-06-27 |
-| Github Stars | 8446 |
+| Github Stars | 8447 |
 | Project Home Page | https://www.bunkerweb.io |
 | Code Repository | https://github.com/bunkerity/bunkerweb |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/bunkerity/bunkerweb) |

@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: borg
 :link-type: doc
-{octicon}`smiley;1em;caption-text` **Borg**        
+{octicon}`light-bulb;1em;caption-text` **Borg**        
 ^^^
 Use and reuse the Borg solution
 +++
@@ -19,7 +19,7 @@ Use and reuse the Borg solution
 :::{grid-item-card}
 :link: duplicity
 :link-type: doc
-{octicon}`cross-reference;1em;caption-text` **duplicity**        
+{octicon}`heart;1em;caption-text` **duplicity**        
 ^^^
 Use and reuse the duplicity solution
 +++
@@ -29,7 +29,7 @@ Use and reuse the duplicity solution
 :::{grid-item-card}
 :link: pyfilefixity
 :link-type: doc
-{octicon}`light-bulb;1em;caption-text` **pyFileFixity**        
+{octicon}`book;1em;caption-text` **pyFileFixity**        
 ^^^
 Use and reuse the pyFileFixity solution
 +++
@@ -39,7 +39,7 @@ Use and reuse the pyFileFixity solution
 :::{grid-item-card}
 :link: rdiff-backup
 :link-type: doc
-{octicon}`report;1em;caption-text` **rdiff-backup**        
+{octicon}`file;1em;caption-text` **rdiff-backup**        
 ^^^
 Use and reuse the rdiff-backup solution
 +++

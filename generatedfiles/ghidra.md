@@ -25,7 +25,7 @@ Home page for this solution: https://ghidra-sre.org/
 | Programming Language | Java |
 | Created | 2019-03-01 |
 | Last update | 2025-06-24 |
-| Github Stars | 58145 |
+| Github Stars | 58146 |
 | Project Home Page | https://www.nsa.gov/ghidra |
 | Code Repository | https://github.com/NationalSecurityAgency/ghidra |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/NationalSecurityAgency/ghidra) |

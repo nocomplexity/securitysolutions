@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: hardenedbsd
 :link-type: doc
-{octicon}`tools;1em;caption-text` **HardenedBSD**        
+{octicon}`light-bulb;1em;caption-text` **HardenedBSD**        
 ^^^
 Use and reuse the HardenedBSD solution
 +++

@@ -25,7 +25,7 @@ Home page for this solution: https://trufflesecurity.com/
 | Programming Language | Go |
 | Created | 2016-12-31 |
 | Last update | 2025-06-27 |
-| Github Stars | 19645 |
+| Github Stars | 19646 |
 | Project Home Page | https://trufflesecurity.com |
 | Code Repository | https://github.com/trufflesecurity/trufflehog |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/trufflesecurity/trufflehog) |

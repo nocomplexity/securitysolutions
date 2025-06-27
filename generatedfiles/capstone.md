@@ -19,7 +19,7 @@ Home page for this solution: https://www.capstone-engine.org/
 | Programming Language | C |
 | Created | 2013-11-27 |
 | Last update | 2025-06-26 |
-| Github Stars | 8100 |
+| Github Stars | 8101 |
 | Project Home Page | http://www.capstone-engine.org |
 | Code Repository | https://github.com/capstone-engine/capstone |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/capstone-engine/capstone) |

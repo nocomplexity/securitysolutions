@@ -19,7 +19,7 @@ Home page for this solution: https://dependencytrack.org/
 | Programming Language | Java |
 | Created | 2013-07-16 |
 | Last update | 2025-06-25 |
-| Github Stars | 3116 |
+| Github Stars | 3117 |
 | Project Home Page | https://dependencytrack.org/ |
 | Code Repository | https://github.com/DependencyTrack/dependency-track |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/DependencyTrack/dependency-track) |

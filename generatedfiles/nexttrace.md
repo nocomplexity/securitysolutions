@@ -25,7 +25,7 @@ Home page for this solution: https://www.nxtrace.org/
 | Programming Language | Go |
 | Created | 2022-05-11 |
 | Last update | 2025-06-26 |
-| Github Stars | 6767 |
+| Github Stars | 6768 |
 | Project Home Page | https://www.nxtrace.org |
 | Code Repository | https://github.com/nxtrace/NTrace-core |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/nxtrace/NTrace-core) |

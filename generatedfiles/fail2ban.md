@@ -19,7 +19,7 @@ Home page for this solution: https://github.com/fail2ban/fail2ban
 | Programming Language | Python |
 | Created | 2011-09-28 |
 | Last update | 2025-06-16 |
-| Github Stars | 14636 |
+| Github Stars | 14637 |
 | Project Home Page | http://www.fail2ban.org |
 | Code Repository | https://github.com/fail2ban/fail2ban |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/fail2ban/fail2ban) |

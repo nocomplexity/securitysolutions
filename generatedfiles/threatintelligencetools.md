@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: cradle
 :link-type: doc
-{octicon}`heart;1em;caption-text` **CRADLE**        
+{octicon}`check-circle;1em;caption-text` **CRADLE**        
 ^^^
 Use and reuse the CRADLE solution
 +++
@@ -19,7 +19,7 @@ Use and reuse the CRADLE solution
 :::{grid-item-card}
 :link: capstone
 :link-type: doc
-{octicon}`briefcase;1em;caption-text` **Capstone**        
+{octicon}`file;1em;caption-text` **Capstone**        
 ^^^
 Use and reuse the Capstone solution
 +++
@@ -29,7 +29,7 @@ Use and reuse the Capstone solution
 :::{grid-item-card}
 :link: grrrapidresponse
 :link-type: doc
-{octicon}`pencil;1em;caption-text` **GRR Rapid Response**        
+{octicon}`thumbsup;1em;caption-text` **GRR Rapid Response**        
 ^^^
 Use and reuse the GRR Rapid Response solution
 +++
@@ -39,7 +39,7 @@ Use and reuse the GRR Rapid Response solution
 :::{grid-item-card}
 :link: ghidra
 :link-type: doc
-{octicon}`stack;1em;caption-text` **Ghidra**        
+{octicon}`thumbsup;1em;caption-text` **Ghidra**        
 ^^^
 Use and reuse the Ghidra solution
 +++
@@ -49,7 +49,7 @@ Use and reuse the Ghidra solution
 :::{grid-item-card}
 :link: misp
 :link-type: doc
-{octicon}`stack;1em;caption-text` **MISP**        
+{octicon}`briefcase;1em;caption-text` **MISP**        
 ^^^
 Use and reuse the MISP solution
 +++
@@ -59,7 +59,7 @@ Use and reuse the MISP solution
 :::{grid-item-card}
 :link: taranisng
 :link-type: doc
-{octicon}`light-bulb;1em;caption-text` **Taranis NG**        
+{octicon}`tools;1em;caption-text` **Taranis NG**        
 ^^^
 Use and reuse the Taranis NG solution
 +++

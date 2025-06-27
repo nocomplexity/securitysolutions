@@ -5,7 +5,7 @@
 
 ## Description 
 
-This open-source tool provides you with advice on the applicability of various post-quantum cryptographic algorithms for your use case.By answering relevant questions about your use case, you are able to see recommendations on the most well-suited option, as well as the pros and cons of the schemes.
+This open-source tool provides you with advice on the applicability of various post-quantum cryptographic algorithms for your use case. By answering relevant questions about your use case, you are able to see recommendations on the most well-suited option, as well as the pros and cons of the schemes.
 
 Home page for this solution: https://tno.github.io/PQChoiceAssistant/ 
 
