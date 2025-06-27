@@ -25,7 +25,7 @@ Home page for this solution: https://www.akamai.com/infectionmonkey
 | Programming Language | Python |
 | Created | 2015-08-30 |
 | Last update | 2025-05-01 |
-| Github Stars | 6805 |
+| Github Stars | 6812 |
 | Project Home Page | https://www.guardicore.com/infectionmonkey/ |
 | Code Repository | https://github.com/guardicore/monkey |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/guardicore/monkey) |

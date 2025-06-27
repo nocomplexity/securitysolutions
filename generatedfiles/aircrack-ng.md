@@ -18,8 +18,8 @@ Home page for this solution: https://www.aircrack-ng.org/
 | License | GNU General Public License v2.0 |
 | Programming Language | C |
 | Created | 2018-03-10 |
-| Last update | 2024-12-19 |
-| Github Stars | 6097 |
+| Last update | 2025-06-19 |
+| Github Stars | 6128 |
 | Project Home Page | https://aircrack-ng.org |
 | Code Repository | https://github.com/aircrack-ng/aircrack-ng |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/aircrack-ng/aircrack-ng) |

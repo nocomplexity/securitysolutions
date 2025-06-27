@@ -18,8 +18,8 @@ Home page for this solution: https://docs.velociraptor.app/
 | License | Other |
 | Programming Language | Go |
 | Created | 2018-03-24 |
-| Last update | 2025-06-12 |
-| Github Stars | 3307 |
+| Last update | 2025-06-26 |
+| Github Stars | 3329 |
 | Project Home Page | https://docs.velociraptor.app/ |
 | Code Repository | https://github.com/Velocidex/velociraptor |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/Velocidex/velociraptor) |

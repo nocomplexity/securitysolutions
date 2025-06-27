@@ -18,8 +18,8 @@ Home page for this solution: https://www.ssh-audit.com/
 | License | MIT License |
 | Programming Language | Python |
 | Created | 2017-09-19 |
-| Last update | 2025-04-18 |
-| Github Stars | 3690 |
+| Last update | 2025-06-16 |
+| Github Stars | 3710 |
 | Project Home Page |  |
 | Code Repository | https://github.com/jtesta/ssh-audit |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/jtesta/ssh-audit) |

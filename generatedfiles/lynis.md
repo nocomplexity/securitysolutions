@@ -19,7 +19,7 @@ Home page for this solution: https://cisofy.com/lynis/
 | Programming Language | Shell |
 | Created | 2013-12-10 |
 | Last update | 2025-04-01 |
-| Github Stars | 14289 |
+| Github Stars | 14333 |
 | Project Home Page | https://cisofy.com/lynis/ |
 | Code Repository | https://github.com/CISOfy/lynis |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/CISOfy/lynis) |

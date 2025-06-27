@@ -19,7 +19,7 @@ Home page for this solution: https://shells.systems/introducing-apt-hunter-threa
 | Programming Language | Python |
 | Created | 2020-12-26 |
 | Last update | 2024-11-07 |
-| Github Stars | 1340 |
+| Github Stars | 1345 |
 | Project Home Page | https://shells.systems/introducing-apt-hunter-threat-hunting-tool-via-windows-event-log/ |
 | Code Repository | https://github.com/ahmedkhlief/APT-Hunter |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/ahmedkhlief/APT-Hunter) |

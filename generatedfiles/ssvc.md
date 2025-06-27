@@ -18,8 +18,8 @@ Home page for this solution: https://github.com/CERTCC/SSVC
 | License | Other |
 | Programming Language | Python |
 | Created | 2020-01-23 |
-| Last update | 2025-06-11 |
-| Github Stars | 152 |
+| Last update | 2025-06-23 |
+| Github Stars | 153 |
 | Project Home Page | https://certcc.github.io/SSVC/ |
 | Code Repository | https://github.com/CERTCC/SSVC |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/CERTCC/SSVC) |

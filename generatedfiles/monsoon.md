@@ -19,7 +19,7 @@ Home page for this solution: https://github.com/RedTeamPentesting/monsoon
 | Programming Language | Go |
 | Created | 2017-11-06 |
 | Last update | 2025-04-22 |
-| Github Stars | 481 |
+| Github Stars | 484 |
 | Project Home Page |  |
 | Code Repository | https://github.com/RedTeamPentesting/monsoon |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/RedTeamPentesting/monsoon) |

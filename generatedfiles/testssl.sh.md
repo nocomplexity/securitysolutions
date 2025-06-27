@@ -18,8 +18,8 @@ Home page for this solution: https://github.com/testssl/testssl.sh
 | License | GNU General Public License v2.0 |
 | Programming Language | Shell |
 | Created | 2014-07-01 |
-| Last update | 2025-06-11 |
-| Github Stars | 8428 |
+| Last update | 2025-06-24 |
+| Github Stars | 8454 |
 | Project Home Page | https://testssl.sh |
 | Code Repository | https://github.com/testssl/testssl.sh |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/testssl/testssl.sh) |

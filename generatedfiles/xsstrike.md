@@ -25,7 +25,7 @@ Home page for this solution: https://github.com/s0md3v/XSStrike
 | Programming Language | Python |
 | Created | 2017-06-26 |
 | Last update | 2025-04-26 |
-| Github Stars | 14035 |
+| Github Stars | 14080 |
 | Project Home Page |  |
 | Code Repository | https://github.com/s0md3v/XSStrike |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/s0md3v/XSStrike) |

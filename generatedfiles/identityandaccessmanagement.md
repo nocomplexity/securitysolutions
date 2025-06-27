@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: janssenproject
 :link-type: doc
-{octicon}`pencil;1em;caption-text` **Janssen Project**        
+{octicon}`book;1em;caption-text` **Janssen Project**        
 ^^^
 Use and reuse the Janssen Project solution
 +++

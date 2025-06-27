@@ -24,7 +24,7 @@ Home page for this solution: https://en.internet.nl/
 | License | Unknown |
 | Programming Language | Python |
 | Created | 2015-10-13 |
-| Last update | 2025-06-10 |
+| Last update | 2025-06-24 |
 | Github Stars | 195 |
 | Project Home Page | https://internet.nl |
 | Code Repository | https://github.com/internetstandards/Internet.nl |

@@ -24,8 +24,8 @@ Home page for this solution: https://www.keycloak.org/
 | License | Apache License 2.0 |
 | Programming Language | Java |
 | Created | 2013-07-02 |
-| Last update | 2025-06-12 |
-| Github Stars | 27666 |
+| Last update | 2025-06-27 |
+| Github Stars | 27928 |
 | Project Home Page | https://www.keycloak.org |
 | Code Repository | https://github.com/keycloak/keycloak |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/keycloak/keycloak) |

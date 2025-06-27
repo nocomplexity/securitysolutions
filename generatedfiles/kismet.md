@@ -18,8 +18,8 @@ Home page for this solution: https://www.kismetwireless.net/
 | License | Other |
 | Programming Language | C++ |
 | Created | 2016-09-20 |
-| Last update | 2025-06-10 |
-| Github Stars | 1745 |
+| Last update | 2025-06-25 |
+| Github Stars | 1755 |
 | Project Home Page | None |
 | Code Repository | https://github.com/kismetwireless/kismet |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/kismetwireless/kismet) |

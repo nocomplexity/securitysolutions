@@ -24,8 +24,8 @@ Home page for this solution: https://cve-bin-tool.readthedocs.io/en/latest/
 | License | GNU General Public License v3.0 |
 | Programming Language | Python |
 | Created | 2019-01-11 |
-| Last update | 2025-06-10 |
-| Github Stars | 1437 |
+| Last update | 2025-06-26 |
+| Github Stars | 1448 |
 | Project Home Page | https://cve-bin-tool.readthedocs.io/en/latest/ |
 | Code Repository | https://github.com/intel/cve-bin-tool |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/intel/cve-bin-tool) |

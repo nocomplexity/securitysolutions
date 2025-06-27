@@ -19,7 +19,7 @@ Home page for this solution: https://github.com/nabla-c0d3/sslyze
 | Programming Language | Python |
 | Created | 2014-08-18 |
 | Last update | 2025-04-06 |
-| Github Stars | 3624 |
+| Github Stars | 3630 |
 | Project Home Page |  |
 | Code Repository | https://github.com/nabla-c0d3/sslyze |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/nabla-c0d3/sslyze) |

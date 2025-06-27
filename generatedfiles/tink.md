@@ -18,8 +18,8 @@ Home page for this solution: https://developers.google.com/tink
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2022-06-15 |
-| Last update | 2025-06-10 |
-| Github Stars | 63 |
+| Last update | 2025-06-19 |
+| Github Stars | 64 |
 | Project Home Page | https://developers.google.com/tink |
 | Code Repository | https://github.com/tink-crypto/tink-py |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/tink-crypto/tink-py) |

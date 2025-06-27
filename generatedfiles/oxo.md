@@ -18,7 +18,7 @@ Home page for this solution: https://oxo.ostorlab.co/
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2021-11-04 |
-| Last update | 2025-06-10 |
+| Last update | 2025-06-25 |
 | Github Stars | 551 |
 | Project Home Page | https://oxo.ostorlab.co |
 | Code Repository | https://github.com/Ostorlab/oxo |

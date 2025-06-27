@@ -19,7 +19,7 @@ Home page for this solution: https://fit4cybersecurity.nc3.lu/
 | Programming Language | Python |
 | Created | 2019-07-09 |
 | Last update | 2025-05-14 |
-| Github Stars | 23 |
+| Github Stars | 24 |
 | Project Home Page | https://fit4cybersecurity.nc3.lu |
 | Code Repository | https://github.com/NC3-LU/Fit4Cybersecurity |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/NC3-LU/Fit4Cybersecurity) |

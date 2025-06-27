@@ -18,8 +18,8 @@ Home page for this solution: https://github.com/tlsfuzzer/tlsfuzzer
 | License | GNU General Public License v2.0 |
 | Programming Language | Python |
 | Created | 2015-01-08 |
-| Last update | 2025-06-12 |
-| Github Stars | 591 |
+| Last update | 2025-06-26 |
+| Github Stars | 595 |
 | Project Home Page |  |
 | Code Repository | https://github.com/tlsfuzzer/tlsfuzzer |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/tlsfuzzer/tlsfuzzer) |

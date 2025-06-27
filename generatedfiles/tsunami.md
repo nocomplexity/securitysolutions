@@ -18,8 +18,8 @@ Home page for this solution: https://github.com/google/tsunami-security-scanner
 | License | Apache License 2.0 |
 | Programming Language | Java |
 | Created | 2020-06-03 |
-| Last update | 2025-06-10 |
-| Github Stars | 8409 |
+| Last update | 2025-06-27 |
+| Github Stars | 8423 |
 | Project Home Page |  |
 | Code Repository | https://github.com/google/tsunami-security-scanner |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/google/tsunami-security-scanner) |

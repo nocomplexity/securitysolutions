@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: awareness
 :link-type: doc
-{octicon}`pencil;1em;caption-text` **Awareness**        
+{octicon}`book;1em;caption-text` **Awareness**        
 ^^^
 Discover great FOSS Awareness solutions
 +++
@@ -19,7 +19,7 @@ Discover great FOSS Awareness solutions
 :::{grid-item-card}
 :link: backup
 :link-type: doc
-{octicon}`package;1em;caption-text` **Backup**        
+{octicon}`megaphone;1em;caption-text` **Backup**        
 ^^^
 Discover great FOSS Backup solutions
 +++
@@ -29,7 +29,7 @@ Discover great FOSS Backup solutions
 :::{grid-item-card}
 :link: encryption
 :link-type: doc
-{octicon}`stack;1em;caption-text` **Encryption**        
+{octicon}`bookmark;1em;caption-text` **Encryption**        
 ^^^
 Discover great FOSS Encryption solutions
 +++
@@ -39,7 +39,7 @@ Discover great FOSS Encryption solutions
 :::{grid-item-card}
 :link: identityandaccessmanagement
 :link-type: doc
-{octicon}`book;1em;caption-text` **IdentityAndAccessManagement**        
+{octicon}`thumbsup;1em;caption-text` **IdentityAndAccessManagement**        
 ^^^
 Discover great FOSS IdentityAndAccessManagement solutions
 +++
@@ -49,7 +49,7 @@ Discover great FOSS IdentityAndAccessManagement solutions
 :::{grid-item-card}
 :link: malwaredetection
 :link-type: doc
-{octicon}`package;1em;caption-text` **Malware Detection**        
+{octicon}`tag;1em;caption-text` **Malware Detection**        
 ^^^
 Discover great FOSS Malware Detection solutions
 +++
@@ -59,7 +59,7 @@ Discover great FOSS Malware Detection solutions
 :::{grid-item-card}
 :link: networksecurity
 :link-type: doc
-{octicon}`tag;1em;caption-text` **Network Security**        
+{octicon}`thumbsup;1em;caption-text` **Network Security**        
 ^^^
 Discover great FOSS Network Security solutions
 +++
@@ -69,7 +69,7 @@ Discover great FOSS Network Security solutions
 :::{grid-item-card}
 :link: operatingsystems
 :link-type: doc
-{octicon}`briefcase;1em;caption-text` **Operating Systems**        
+{octicon}`tools;1em;caption-text` **Operating Systems**        
 ^^^
 Discover great FOSS Operating Systems solutions
 +++
@@ -79,7 +79,7 @@ Discover great FOSS Operating Systems solutions
 :::{grid-item-card}
 :link: testtools
 :link-type: doc
-{octicon}`book;1em;caption-text` **Test Tools**        
+{octicon}`hubot;1em;caption-text` **Test Tools**        
 ^^^
 Discover great FOSS Test Tools solutions
 +++
@@ -89,7 +89,7 @@ Discover great FOSS Test Tools solutions
 :::{grid-item-card}
 :link: threatintelligencetools
 :link-type: doc
-{octicon}`cross-reference;1em;caption-text` **Threat Intelligence Tools**        
+{octicon}`thumbsup;1em;caption-text` **Threat Intelligence Tools**        
 ^^^
 Discover great FOSS Threat Intelligence Tools solutions
 +++
@@ -99,7 +99,7 @@ Discover great FOSS Threat Intelligence Tools solutions
 :::{grid-item-card}
 :link: vulnerabilitymanagement
 :link-type: doc
-{octicon}`heart;1em;caption-text` **Vulnerability Management**        
+{octicon}`check-circle;1em;caption-text` **Vulnerability Management**        
 ^^^
 Discover great FOSS Vulnerability Management solutions
 +++

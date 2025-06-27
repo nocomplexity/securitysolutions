@@ -25,7 +25,7 @@ Home page for this solution: https://docs.ssh-mitm.at/
 | Programming Language | Python |
 | Created | 2020-06-03 |
 | Last update | 2025-06-10 |
-| Github Stars | 1388 |
+| Github Stars | 1389 |
 | Project Home Page | https://docs.ssh-mitm.at |
 | Code Repository | https://github.com/ssh-mitm/ssh-mitm |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/ssh-mitm/ssh-mitm) |

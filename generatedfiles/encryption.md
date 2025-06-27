@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: google'sdifferentialprivacylibraries
 :link-type: doc
-{octicon}`check-circle;1em;caption-text` **Google's differential privacy libraries**        
+{octicon}`briefcase;1em;caption-text` **Google's differential privacy libraries**        
 ^^^
 Use and reuse the Google's differential privacy libraries solution
 +++
@@ -19,7 +19,7 @@ Use and reuse the Google's differential privacy libraries solution
 :::{grid-item-card}
 :link: let'sencrypt
 :link-type: doc
-{octicon}`thumbsup;1em;caption-text` **Let's Encrypt**        
+{octicon}`heart;1em;caption-text` **Let's Encrypt**        
 ^^^
 Use and reuse the Let's Encrypt solution
 +++
@@ -29,7 +29,7 @@ Use and reuse the Let's Encrypt solution
 :::{grid-item-card}
 :link: openssl
 :link-type: doc
-{octicon}`eye;1em;caption-text` **OpenSSL**        
+{octicon}`cross-reference;1em;caption-text` **OpenSSL**        
 ^^^
 Use and reuse the OpenSSL solution
 +++
@@ -37,9 +37,19 @@ Use and reuse the OpenSSL solution
 :::
 
 :::{grid-item-card}
+:link: pqchoiceassistant
+:link-type: doc
+{octicon}`project;1em;caption-text` **PQChoiceAssistant**        
+^^^
+Use and reuse the PQChoiceAssistant solution
++++
+[More »](pqchoiceassistant)
+:::
+
+:::{grid-item-card}
 :link: tink
 :link-type: doc
-{octicon}`verified;1em;caption-text` **Tink**        
+{octicon}`pencil;1em;caption-text` **Tink**        
 ^^^
 Use and reuse the Tink solution
 +++

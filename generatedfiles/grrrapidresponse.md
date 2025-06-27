@@ -25,7 +25,7 @@ Home page for this solution: https://grr-doc.readthedocs.io/en/latest/
 | Programming Language | Python |
 | Created | 2013-12-04 |
 | Last update | 2025-06-05 |
-| Github Stars | 4909 |
+| Github Stars | 4918 |
 | Project Home Page | https://grr-doc.readthedocs.io/ |
 | Code Repository | https://github.com/google/grr |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/google/grr) |

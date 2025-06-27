@@ -18,8 +18,8 @@ Home page for this solution: https://secml.readthedocs.io/en/v0.15/
 | License | Apache License 2.0 |
 | Programming Language | Jupyter Notebook |
 | Created | 2020-04-20 |
-| Last update | 2025-01-24 |
-| Github Stars | 180 |
+| Last update | 2025-06-23 |
+| Github Stars | 181 |
 | Project Home Page | https://secml.readthedocs.io |
 | Code Repository | https://github.com/pralab/secml |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/pralab/secml) |

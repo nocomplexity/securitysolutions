@@ -24,8 +24,8 @@ Home page for this solution: https://nmap.org/
 | License | Other |
 | Programming Language | C |
 | Created | 2012-03-09 |
-| Last update | 2025-06-10 |
-| Github Stars | 11222 |
+| Last update | 2025-06-26 |
+| Github Stars | 11292 |
 | Project Home Page | https://svn.nmap.org/ |
 | Code Repository | https://github.com/nmap/nmap |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/nmap/nmap) |

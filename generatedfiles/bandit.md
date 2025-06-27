@@ -24,8 +24,8 @@ Home page for this solution: https://bandit.readthedocs.io/en/latest/
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2018-04-26 |
-| Last update | 2025-06-02 |
-| Github Stars | 7055 |
+| Last update | 2025-06-26 |
+| Github Stars | 7119 |
 | Project Home Page | https://bandit.readthedocs.io |
 | Code Repository | https://github.com/PyCQA/bandit |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/PyCQA/bandit) |

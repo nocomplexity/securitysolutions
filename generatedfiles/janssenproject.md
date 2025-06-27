@@ -20,12 +20,12 @@ Home page for this solution: https://gluu.org/
 | Key | Value |
 | --- | --- |
 | Name | jans |
-| Description | The Janssen Project maintains open source IAM components, featuring Agama for identity orchestration, and the Cedarling, a WASM or embedded policy evaluation engine. |
+| Description | The Janssen Project is a home for open source IAM components, featuring Auth Server (OAuth/OpenID), Agama low-code identity orchestration, and the Cedarling policy decision point. The "Janssen Server" distributions bundle IAM components under one control plane.  |
 | License | Apache License 2.0 |
 | Programming Language | Java |
 | Created | 2020-11-03 |
-| Last update | 2025-06-12 |
-| Github Stars | 547 |
+| Last update | 2025-06-27 |
+| Github Stars | 548 |
 | Project Home Page | https://docs.jans.io |
 | Code Repository | https://github.com/JanssenProject/jans |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/JanssenProject/jans) |

@@ -24,8 +24,8 @@ Home page for this solution: https://cradle.sh/
 | License | MIT License |
 | Programming Language | Python |
 | Created | 2024-07-08 |
-| Last update | 2025-06-09 |
-| Github Stars | 224 |
+| Last update | 2025-06-26 |
+| Github Stars | 240 |
 | Project Home Page | http://cradle.sh/ |
 | Code Repository | https://github.com/prodaft/cradle |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/prodaft/cradle) |

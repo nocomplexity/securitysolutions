@@ -24,8 +24,8 @@ Home page for this solution: https://www.misp-project.org/
 | License | GNU Affero General Public License v3.0 |
 | Programming Language | PHP |
 | Created | 2013-02-07 |
-| Last update | 2025-06-12 |
-| Github Stars | 5749 |
+| Last update | 2025-06-25 |
+| Github Stars | 5775 |
 | Project Home Page | https://www.misp-project.org/ |
 | Code Repository | https://github.com/MISP/MISP |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/MISP/MISP) |
